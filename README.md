@@ -9,6 +9,5 @@
 ## Technology Used
 -HTML
 -CSS
--JavaScript
 ## Author
 Austine   
